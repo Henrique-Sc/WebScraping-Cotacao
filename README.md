@@ -18,7 +18,7 @@ Uma empresa que atua no setor de importação tem como os preços dos produtos v
 
 ### Funcionamento:
 
-1. Realiza a coleta das três cotações e salva cada individualmente em uma variável
+1. Realiza a coleta das três cotações e salva cada valor individualmente em uma variável
 
 2. Importa a base de dados
 
